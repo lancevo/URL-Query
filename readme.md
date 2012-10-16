@@ -8,7 +8,6 @@ Get Queries:
 
 	alert(window.query.abc); // print value: 123
 	alert(window.query.xyz); // print value: 456
-
-or 
+	or 
 	alert(window.query["abc"]);
 	alert(window.query["abc"]);
